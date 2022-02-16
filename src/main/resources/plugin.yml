@@ -1,0 +1,8 @@
+name: SolarSystem
+version: '${project.version}'
+main: com.chilieutenant.solarsystem.main
+api-version: 1.16
+commands:
+  create:
+  delete:
+  deneme:
